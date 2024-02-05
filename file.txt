@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Content from the main branch" 
+=======
+"Content from the new branch" 
+>>>>>>> new-branch
